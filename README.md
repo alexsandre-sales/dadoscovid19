@@ -31,6 +31,7 @@ No momento não utilizei o Xampp para testar o PWA no celular, mas seguindo as c
 
 - [PWA](https://web.dev/)
 - [Api Covid](https://github.com/javieraviles/covidAPI) ( Creditos Javier Aviles )
+- [Site Demonstrativo ](https://coviddados.netlify.app/)
 
 ---
 
